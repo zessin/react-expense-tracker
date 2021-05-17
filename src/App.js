@@ -19,15 +19,27 @@ const INITIAL_EXPENSES = [
   },
   {
     id: 3,
-    title: "Headset",
-    amount: 90,
+    title: "Mouse",
+    amount: 45.99,
     date: new Date(2021, 2, 15),
   },
   {
     id: 4,
+    title: "Headset",
+    amount: 90,
+    date: new Date(2021, 3, 20),
+  },
+  {
+    id: 5,
     title: "Keyboard",
     amount: 79.99,
-    date: new Date(2021, 3, 20),
+    date: new Date(2021, 3, 25),
+  },
+  {
+    id: 6,
+    title: "Cellphone",
+    amount: 300,
+    date: new Date(2021, 5, 30),
   },
 ];
 
